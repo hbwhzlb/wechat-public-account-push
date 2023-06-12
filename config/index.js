@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "317604a59701feeb35cc1d6ffc7fdd29",
 
     // 模板消息id
-    TEMPLATE_ID: "wLF_FceHvkQYJspS6UNFQOkzI390LrFh-UrmLMObYOQ",
+    TEMPLATE_ID: "CiUqKHUA_ziJD5PNoOFWasZvSBkEvHjwBqjvn8Tvcgo",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
@@ -66,6 +66,7 @@ export const config = {
     LOVE_DATE: "2011-04-05",
     // 结婚纪念日
     MARRY_DATE: "2020-07-16",
+    BABY_DATE: "2023-04-18",
 
 
     /** 每日一言 */
