@@ -53,7 +53,7 @@ export const config = {
     FESTIVALS: [
       {"type": "生日", "name": "老婆", "year": "1994", "date": "02-20"},
       {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "07-16"},
-      {"type": "节日", "name": "baby", "year": "2023", "date": "04-18"}, 
+      {"type": "节日", "name": "baby", "year": "2023", "date": "04-23"}, 
     ],
     // 限制重要节日的展示条目, 需要填写数字; 
     // 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
@@ -65,8 +65,8 @@ export const config = {
     // 在一起的日子，格式同上
     LOVE_DATE: "2011-04-05",
     // 结婚纪念日
-    MARRY_DATE: "2023-04-18",
-    BABY_DATE: "2023-04-18",
+    MARRY_DATE: "2023-04-23",
+    BABY_DATE: "2023-04-23",
 
 
     /** 每日一言 */
